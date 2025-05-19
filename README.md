@@ -2,8 +2,8 @@
 ## Objective
 The objective of this project is to modernize healthcare diagnostics and treatment planning by leveraging Artificial 	Intelligence (AI), Internet of Things (IoT) devices, and secure data handling. The goal is to deliver fast, accurate, and personalized health assessments and treatment suggestions using real-time patient data.
 ## Features
-AI-Powered Diagnosis: Automated health condition prediction based on symptoms and real-time vitals.
-Personalized Treatment Suggestions: Custom treatment plans tailored to individual patient data
+1.AI-Powered Diagnosis: Automated health condition prediction based on symptoms and real-time vitals.
+2.Personalized Treatment Suggestions: Custom treatment plans tailored to individual patient data
 IoT Integration: Real-time health monitoring using devices tracking vitals like temperature, heart rate, and oxygen levels.
 Secure Data Handling: Encrypted storage and access control for patient records.
 Performance Monitoring: Tracks accuracy, latency, and system load to ensure optimal performance.
